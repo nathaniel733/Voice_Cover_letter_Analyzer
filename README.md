@@ -49,10 +49,8 @@
 <p>Your contributions will help us enhance the platform and provide a better experience for users!</p>
 
 <h2>License</h2>
-<p>This project is licensed under the MIT License. See the <a href="LICENSE">LICENSE</a> file for more information.</p>
+<p>This project is open-source and available for community contributions. Please credit the original creators if you use or modify the platform.</p>
 
-<h2>Contact</h2>
-<p>If you have any questions, feedback, or suggestions, please feel free to reach out to us at <a href="mailto:support@videocoverletteranalyzer.com">support@videocoverletteranalyzer.com</a>. We value your input and look forward to hearing from you!</p>
 
 <h2>Conclusion</h2>
 <p>The Video Cover Letter Analyzer and Resume Parser is designed to simplify the hiring process and enhance the quality of job applications. By harnessing the power of technology, we aim to create a more efficient and insightful recruitment experience for both candidates and employers. Thank you for exploring our project!</p>
