@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Video Cover Letter Analyzer</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body >
+    <div class="container">
+        <header>
+            <h1>Video Cover Letter Analyzer <br> & Resume Parser</h1>
+        </header>
+        <main>
+            <form action="/" method="POST" enctype="multipart/form-data">
+                <div class="form-group">
+                    <label for="video">Upload Video Cover Letter:</label>
+                    <input type="file" name="video" id="video" required>
+                </div>
+                <div class="form-group">
+                    <label for="resume">Upload Resume (PDF):</label>
+                    <input type="file" name="resume" id="resume" required>
+                </div>
+                <button type="submit" class="btn">Analyze</button>
+            </form>
+        </main>
+    </div>
+</body>
+</html>
